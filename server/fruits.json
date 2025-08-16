@@ -1,0 +1,22 @@
+[
+  { "name": "Apple", "price": 2500 },
+  { "name": "Banana", "price": 1000 },
+  { "name": "Orange", "price": 1800 },
+  { "name": "Mango", "price": 3500 },
+  { "name": "Grapes", "price": 4000 },
+  { "name": "Pineapple", "price": 3000 },
+  { "name": "Strawberry", "price": 5000 },
+  { "name": "Blueberry", "price": 7000 },
+  { "name": "Raspberry", "price": 8000 },
+  { "name": "Blackberry", "price": 6000 },
+  { "name": "Watermelon", "price": 750 },
+  { "name": "Cantaloupe", "price": 2000 },
+  { "name": "Honeydew", "price": 2200 },
+  { "name": "Peach", "price": 2800 },
+  { "name": "Pear", "price": 2700 },
+  { "name": "Plum", "price": 3200 },
+  { "name": "Kiwi", "price": 4500 },
+  { "name": "Avocado", "price": 4800 },
+  { "name": "Lemon", "price": 1200 },
+  { "name": "Lime", "price": 1500 }
+]
